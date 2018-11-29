@@ -3,7 +3,7 @@ layout: post
 title: The Butterfly Lifecycle
 ---
 
-![Butterfly](/images/Butterfly.jpg)
+![Butterfly](/images/butterflies_jenna-stirling.png)
 
 ##The Egg
 
